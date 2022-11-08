@@ -112,7 +112,7 @@ document.querySelector("#cards").innerHTML =
     )+
   createCard(
     "02/12",
-    "Quinta",
+    "Sexta",
     createGame("south-korea", "07:00", "portugal") +
       createGame("ghana", "10:00", "uruguay") +
       createGame("serbia", "13:00", "switzerland") +
